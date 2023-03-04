@@ -9,8 +9,6 @@
 <h2>Ou</h2><br>
 <h3> SSH: git@github.com:eulerBM/Google_copia_HTML_CSS.git</h3><br><br><br>
 
-<h2> Inicie o projeto🙂 </h2><br>
-<h3>python manage.py runserver</h3><br>
 <h2> Ferramentas usadas 🔨</h2>
 <br>
 <h3> HTML </h3>
